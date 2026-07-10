@@ -7,7 +7,7 @@ export default defineAstroPaperConfig({
     description: "A minimal, responsive and SEO-friendly Astro blog theme.",
     author: "Noctyn",
     profile: "https://noctyn.github.io",
-    ogImage: "default-og.jpg",
+    ogImage: "astropaper-og.jpg",
     lang: "zh-CN",
     timezone: "Asia/Shanghai",
     dir: "ltr",
